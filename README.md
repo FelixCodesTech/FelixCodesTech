@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on **Web Development**
 - 🌱 Currently learning **JavaScript**
-- 🧭 Planning on **learning React.js and Node.js**
+- 🧭 Planning on **learning React.js, Node.js and Machine Learning**
 - 👯 Looking to collaborate on **Interesting Projects**
 - 💬 Ask me about **Anything**
 - 📫 Reach me: **Github**
