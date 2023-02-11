@@ -3,8 +3,8 @@
 #### I'm Felix, here's some information :)
 
 - 🔭 Currently working on **Web Development**
-- 🌱 Currently learning **JavaScript**
-- 🧭 Planning on **learning React.js, Node.js and Machine Learning**
+- 🌱 Currently learning **JavaScript & Machine Learning**
+- 🧭 Planning on **learning React.js, Node.js**
 - 👯 Looking to collaborate on **Interesting Projects**
 - 💬 Ask me about **Anything**
 - 📫 Reach me: **Github**
