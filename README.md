@@ -2,8 +2,8 @@
 
 #### I'm Felix, here's some information :)
 
-- 🔭 Currently working on **Web Development, Machine Learning**
-- 🌱 Currently learning **JavaScript & Machine Learning**
+- 🔭 Currently working on **Web Development, Machine Learning, OpenAI (API)**
+- 🌱 Currently learning **JavaScript & Machine Learning, OpenAI (API)**
 - 🧭 Planning on **learning React.js, Node.js**
 - 👯 Looking to collaborate on **Interesting Projects**
 - 💬 Ask me about **Anything**
