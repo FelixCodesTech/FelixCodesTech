@@ -8,7 +8,7 @@
 - 👯 Looking to collaborate on **Interesting Projects**
 - 💬 Ask me about **Anything**
 - 📫 Reach me: **Github**
-- ⚡ Fun fact: **I've been coding for ages haha**
+- ⚡ Fun fact: **I feel like I've been coding for ages haha**
 
 
 
