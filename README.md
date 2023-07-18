@@ -2,13 +2,11 @@
 
 #### I'm Felix, here's some information :)
 
-- 🔭 Currently working on **Machine Learning, OpenAI (API), Games**
-- 🌱 Currently learning **Machine Learning, OpenAI (API), Lua**
-- 🧭 Planning on **learning React.js, Node.js**
-- 👯 Looking to collaborate on **Interesting Projects**
-- 💬 Ask me about **Anything**
+- 🔭 Currently working on **Machine Learning (Reinforcement and Supervised Learning)**
+- 🌱 Currently learning **Machine Learning (OpenAI Gym, stablebaselines, scikit-learn)**
+- 🧭 Planning on **learning even more RL**
 - 📫 Reach me: **Github**
-- ⚡ Fun fact: **I feel like I've been coding for ages haha**
+- ⚡ Fun fact: **I like finances**
 
 
 
