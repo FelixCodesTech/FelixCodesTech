@@ -3,8 +3,8 @@
 #### I'm Felix, here's some information :)
 
 - 🔭 Currently working on **Machine Learning (Reinforcement and Supervised Learning)**
-- 🌱 Currently learning **Machine Learning (OpenAI Gym, stablebaselines, scikit-learn)**
-- 🧭 Planning on **learning even more RL**
+- 🌱 Currently learning **Reinforcement Learning (OpenAI Gym, stablebaselines, scikit-learn)**
+- 🧭 Planning on **learning how custom envs work with stablebaselines**
 - 📫 Reach me: **Github**
 - ⚡ Fun fact: **I like finances**
 
