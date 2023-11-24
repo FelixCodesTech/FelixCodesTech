@@ -2,9 +2,9 @@
 
 #### I'm Felix, here's some information :)
 
-- 🔭 Currently working on **Machine Learning (Reinforcement and Supervised Learning)**
-- 🌱 Currently learning **Reinforcement Learning (OpenAI Gym, stablebaselines, scikit-learn)**
-- 🧭 Planning on **learning how custom envs work with stablebaselines**
+- 🔭 Currently working on **Laravel**
+- 🌱 Currently learning **PHP**
+- 🧭 Planning on **learning Laravel Livewire**
 - 📫 Reach me: **Github**
 - ⚡ Fun fact: **I like finances**
 
