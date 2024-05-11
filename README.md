@@ -9,6 +9,11 @@
 - ⚡ Fun fact: **I like finances**
 
 
+<!-- Thanks that I could steal this off of someones github :) -->
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixCodesTech&layout=compact&theme=light" />
+</a>
+
 
 <!--
 **FelixCodesTech/FelixCodesTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
