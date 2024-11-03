@@ -2,9 +2,9 @@
 
 #### I'm Felix, here's some information :)
 
-- 🔭 Currently working on **Laravel, Python, ML**
-- 🌱 Currently learning **PHP, Tensorflow**
-- 🧭 Planning on **learning Laravel Livewire, maybe a bit of PyTorch?**
+- 🔭 Currently working on **Python, some efficiency stuff**
+- 🌱 Currently learning **Hashmaps, Bloomfilters, some interesting stuff**
+- 🧭 Planning on **learning maybe a bit of PyTorch?**
 - 📫 Reach me: **Github**
 - ⚡ Fun fact: **I like finances**
 
