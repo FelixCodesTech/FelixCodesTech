@@ -11,7 +11,7 @@
 
 <!-- Thanks that I could steal this off of someones github :) -->
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixCodesTech&layout=compact&theme=light&hide=javascript,css,scss,html,jupyter%20notebook,beef" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixCodesTech&layout=compact&theme=light&hide=css,scss,jupyter%20notebook,beef" />
 </a>
 
 
