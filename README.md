@@ -2,11 +2,11 @@
 
 #### I'm Felix, here's some information :)
 
-- 🔭 Currently working on **Python, Game Development**
-- 🌱 Currently learning **Recommendation algortihms, some interesting stuff**
-- 🧭 Planning on **learning maybe a bit of PyTorch?**
+- 🔭 Currently working on **Game Development**
+<!-- - 🌱 Currently learning **Recommendation algortihms, some interesting stuff** -->
+- 🧭 Planning on **learning some more machine learning**
 - 📫 Reach me: **Github**
-- ⚡ Fun fact: **I like finances + the graph below is kinda ridiculous**
+- ⚡ Fun fact: **I like finances + the graph below is meaningless**
 
 
 <!-- Thanks that I could steal this off of someones github :) -->
